@@ -1,9 +1,15 @@
-# evidence_pojisteni
-Závěrečný projekt v rekvalifikačním kurzu
+# Evidence Pojisteni
 
+## Popis projektu
+Závěrečný projekt v rekvalifikačním kurzu Python.
+
+## Funkcionalita
 Základní konzolová verze projektu, kde jsme měli za úkol:
-1. Vytořit nového pojištěného (jméno, přijmení, věk a telefonní číslo)
-2. Vyhledat pojištěného
-3. Zobrazit všechny pojištěné
-4. Ukončit aplikaci
 
+- Vytvořit nového pojištěného (jméno, přijmení, věk a telefonní číslo)
+- Vyhledat pojištěného
+- Zobrazit všechny pojištěné
+- Ukončit aplikaci
+
+## Autor
+- Anna Jasková
