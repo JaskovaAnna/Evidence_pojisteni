@@ -1,4 +1,4 @@
-# Evidence Pojisteni
+# Evidence Pojištění
 
 ## Popis projektu
 Závěrečný projekt v rekvalifikačním kurzu Python.
